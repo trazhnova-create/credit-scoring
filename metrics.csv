@@ -1,0 +1,4 @@
+model,Gini valid,ROC-AUC test,Gini test,KS test,Gini train,PSI train->test
+LogReg,0.713,0.8554,0.7108,0.5563,0.7083,0.0005
+LightGBM,0.7344,0.8661,0.7323,0.5748,0.7568,0.0007
+CatBoost,0.7349,0.8664,0.7328,0.5761,0.7558,0.0005
